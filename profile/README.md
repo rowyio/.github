@@ -20,13 +20,13 @@
     </tr>
     <tr align="center">
         <td>
-            <a href="https://buildship.com">
-            <img   alt="BuildShip.com" src="https://github.com/rowyio/.github/assets/307298/93fc342f-9ce5-4d0e-96fc-dffc146fc4be"/>
+            <a href="https://buildship.com" target="_blank">
+            <img alt="BuildShip.com" src="https://github-production-user-asset-6210df.s3.amazonaws.com/307298/266487379-93fc342f-9ce5-4d0e-96fc-dffc146fc4be.png"/>
             </a>
         </td>
         <td>
             <a href="https://www.rowy.io">
-            <img  alt="Rowy.io" src="https://github.com/rowyio/.github/assets/307298/9a3a5990-c33b-4244-a24f-6290ccc81ef4"/>
+            <img  alt="Rowy.io" src="https://github-production-user-asset-6210df.s3.amazonaws.com/307298/266487363-9a3a5990-c33b-4244-a24f-6290ccc81ef4.png"/>
             </a>
         </td>
     </tr>
